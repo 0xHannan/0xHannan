@@ -12,34 +12,6 @@
   <code><b>CS Candidate</b></code> &nbsp;•&nbsp; <code><b>Cybersecurity Enthusiast</b></code> &nbsp;•&nbsp; <code><b>Offensive Security</b></code>
 </p>
 
----
-
-</div>
-
-```diff
-- [SYSTEM ALERT: RED TEAM ENGAGEMENT INITIALIZED]
-+ TARGET ARCHITECTURE AUDIT: ACTIVE
-```
-
-```zsh
-┌──(0xhannan#root)-[~/profile]
-└─$ ./init_summary.sh --verbose
-```
-
-> **`CS student by day, digital lockpicker by night.`**
-> 
-> I break into systems **(legally)** to help make them unbreakable. Driven by red team tactics, I spend my time uncovering security blind spots before anyone else can exploit them.
-
-<br>
-
-<div align="center">
-
-```diff
-+ --------------------------------------------------------------------+
--  MODE: OFFENSIVE_SECURITY | STATUS: ACTIVE_AUDIT | CLEARANCE: ROOT  -
-+ --------------------------------------------------------------------+
-```
-
 <!-- Red to Light Blue Bottom Divider Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:0284c7,100:38bdf8&height=4" width="100%" alt="Divider" />
 
