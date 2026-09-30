@@ -8,10 +8,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1500&color=38BDF8&center=true&vCenter=true&width=550&lines=ABDUL+HANNAN+QURESHI;%3E0xHannan;OFFENSIVE+SECURITY+%26+RED+TEAMING" alt="Typing Banner" />
 </a>
 
-<p align="center">
-  <code><b>CS Candidate</b></code> &nbsp;•&nbsp; <code><b>Cybersecurity Enthusiast</b></code> &nbsp;•&nbsp; <code><b>Offensive Security</b></code>
-</p>
-
 <!-- Red to Light Blue Bottom Divider Line -->
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:dc2626,50:0284c7,100:38bdf8&height=4" width="100%" alt="Divider" />
 
